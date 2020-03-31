@@ -1,0 +1,3 @@
+[2020-04-01 00:54:32.236037]  [ThreadID=0x00000628]  [Severity=fatal] [ProcessID=0x00001854]  [LineID=1]  You have done error things!
+[2020-04-01 00:54:58.984126]  [ThreadID=0x00001da8]  [Severity=fatal] [ProcessID=0x00003f30]  [LineID=1]  You have done error things!
+[2020-04-01 00:57:04.254304]  [ThreadID=0x000016f0]  [Severity=fatal] [ProcessID=0x00002320]  [LineID=1]  You have done error things!
